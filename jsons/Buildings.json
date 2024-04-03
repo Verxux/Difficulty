@@ -30,17 +30,26 @@
 		"culture": 50,
 		"greatPersonPoints": {"Great Engineer": 100},
 		"isWonder": true,
-		"uniques": ["[-60]% construction time for [All] improvements","[4] free [Worker] units appear"],
+		"uniques": ["[-75]% construction time for [All] improvements","[4] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
   },
   {
     "name":"All roads lead to Rome",
     "uniqueTo": "Rome",
-    "culture":10
-    "science":10
-    "production":10
+    "culture":10,
+    "science":10,
+    "production":10,
     "hurryCostModifier":25
   },
+  { 
+    "name":"Temple of Janus"
+    "uniqueTo": "Rome",
+    "production":10
+    "faith":20,
+    "gold":10,
+    "culture":15,
+    "hurryCostModifier":15,
+  },    
 ]
     
