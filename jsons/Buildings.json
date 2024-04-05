@@ -3,11 +3,11 @@
     "name": "Walls of the Eternal city",
     "replaces": "Walls",
     "uniqueTo": "Rome",
-		"cityStrength": 20,
-		"cityHealth": 200,
-    "gold": 25,
-    "culture": 25,
-    "faith":25,
+		"cityStrength": 10,
+		"cityHealth": 100,
+    "gold": 5,
+    "culture": 5,
+    "faith":5,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
@@ -17,7 +17,7 @@
     "replaces": "Barracks",
     "uniqueTo": "Rome",
     "hurryCostModifier": 25,
-    "production": 10,
+    "production": 3,
     "maintenance": 1,
 		"uniques": ["[-75]% Culture cost of natural border growth [in this city]","[-75]% Gold cost of acquiring tiles [in this city]",
 			"New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
@@ -27,7 +27,7 @@
     "name": "The Glorious Pyramids",
     "replaces": "The Pyramids",
     "uniqueTo": "Rome",
-		"culture": 50,
+		"culture": 10,
 		"greatPersonPoints": {"Great Engineer": 100},
 		"isWonder": true,
 		"uniques": ["[-75]% construction time for [All] improvements","[4] free [Worker] units appear"],
@@ -37,19 +37,19 @@
   {
     "name":"All roads lead to Rome",
     "uniqueTo": "Rome",
-    "culture":10,
-    "science":10,
-    "production":10,
+    "culture":3,
+    "science":3,
+    "production":3,
     "hurryCostModifier":25
   },
   { 
     "name":"Temple of Janus"
     "uniqueTo": "Rome",
-    "production":10
-    "faith":20,
-    "gold":10,
-    "culture":15,
+    "production":2
+    "faith":2,
+    "gold":2,
+    "culture":2,
     "hurryCostModifier":15,
-  },    
+  },   
 ]
     
