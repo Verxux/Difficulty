@@ -20,7 +20,7 @@
     "production": 3,
     "maintenance": 1,
 		"uniques": ["[-75]% Culture cost of natural border growth [in this city]","[-75]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
+			"New [Military] units start with [30] Experience [in this city]","All newly-trained [non-[Air]] units [in this city] receive the [Woodsman] promotion","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   },
   {
@@ -30,7 +30,7 @@
 		"culture": 10,
 		"greatPersonPoints": {"Great Engineer": 100},
 		"isWonder": true,
-		"uniques": ["[-75]% construction time for [All] improvements","[4] free [Worker] units appear"],
+		"uniques": ["[-90]% construction time for [All] improvements","[4] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
   },
