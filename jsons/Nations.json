@@ -1,4 +1,5 @@
-"name": "Rome",
+{
+                "name": "Rome",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
@@ -19,7 +20,7 @@
 		"innerColor": [240, 199, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Glory of Rome",
-		"uniques": ["[+50]% Production towards any buildings that already exist in the Capital"],
+		"uniques": ["[+50]% Production towards any buildings that already exist in the Capital","[+3 Faith, +3 Culture] from all [Walls] buildings", "[+3 Faith, +3 Culture] from all [Arsenal] buildings", "[+3 Faith, +3 Culture] from all [Castle] buildings", "[+3 Faith, +3 Culture] from all [Military Base] buildings", "[+3 Faith, +3 Culture] from all [Bomb Shelter] buildings", "[+33]% City Strength from defensive buildings <in cities with a [Palace]>", "[+3 Faith, +3 Culture] from [Citadel] tiles [in all cities]", "[+3 Faith, +3 Culture] from [Fort] tiles [in all cities]", "[-50]% Gold cost of upgrading <for [All] units> <during a Golden Age>"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
