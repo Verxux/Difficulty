@@ -3,8 +3,8 @@
     "name": "Walls of the Eternal city",
     "replaces": "Walls",
     "uniqueTo": "Rome",
-		"cityStrength": 20,
-		"cityHealth": 200,
+    "cityStrength": 20,
+    "cityHealth": 200,
     "gold": 25,
     "culture": 25,
     "faith":25,
@@ -30,7 +30,7 @@
 		"culture": 50,
 		"greatPersonPoints": {"Great Engineer": 100},
 		"isWonder": true,
-		"uniques": ["[-75]% construction time for [All] improvements","[4] free [Worker] units appear"],
+		"uniques": ["[-90]% construction time for [All] improvements","[4] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
   },
@@ -40,7 +40,7 @@
     "culture":10,
     "science":10,
     "production":10,
-    "hurryCostModifier":25
+    "hurryCostModifier":10
   },
   { 
     "name":"Temple of Janus"
